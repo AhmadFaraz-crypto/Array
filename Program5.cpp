@@ -27,7 +27,7 @@ int main()
                 f=1;
             }
         }
-        if(l==1)
+        if(f==1)
         {
             std::cout<<n2[i];
         }
