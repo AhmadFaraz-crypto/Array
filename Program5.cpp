@@ -29,7 +29,7 @@ int main()
         }
         if(f==1)
         {
-            std::cout<<n2[i];
+            std::cout<<n2[i]<<" ";
         }
         f=0;
     }
